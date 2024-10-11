@@ -11,11 +11,11 @@ html {
 }
 
 :root{
-    --color1: #469B9B;
+    --color1: #9b5846;
     --color2: #F06B1D;
     --color3: #00EFEE;
-    --color4: #B06A41;
-    --color5: #705546;
+    --color4: #41b052;
+    --color5: #704646;
 }
 
 h1, h2, p, a, button {
@@ -57,7 +57,7 @@ section p{
 }
 
 h1, h2{
-    color: white;
+    color: rgb(15, 14, 14);
 }
 
 nav ul {
@@ -91,7 +91,7 @@ nav a {
 button {
     background-color: var(--color1);
     border-radius: 10px;
-    color: white;
+    color: rgb(255, 255, 255);
     border: none;
     padding: 10px 20px;
     cursor: pointer;
